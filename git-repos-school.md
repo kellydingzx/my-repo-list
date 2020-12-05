@@ -11,7 +11,7 @@ Bio reactor: https://github.com/kellydingzx/Bio-reactor-year1
 
 Compiler: https://github.com/kellydingzx/compilers-year1
 
-Java Coursework: 
+Java Coursework: https://github.com/kellydingzx/Java-coursework-y1 
 
 C coursework: https://github.com/kellydingzx/c-coursework-year1
 

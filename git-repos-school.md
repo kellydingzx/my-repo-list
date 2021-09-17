@@ -6,7 +6,7 @@ Github repos kellydingzx
 
 Year 1 projects 
 ---------------
-Tetris Assignment: https://github.com/kellydingzx/tetris-assignment-y1 
+Tetris Assignment.(https://github.com/kellydingzx/tetris-assignment-y1)
 
 Build your own computer: https://github.com/kellydingzx/Build-your-own-computer-year1 
 

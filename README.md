@@ -19,4 +19,8 @@ C coursework: https://github.com/kellydingzx/c-coursework-year1
 
 Year 2 projects
 ---------------
-Not available for now.
+Situated Cognition 2021: https://github.com/Apperta-IXN-for-the-NHS/SC360Editor2021 
+
+JSH:
+
+Math coursework written in LaTeX: 

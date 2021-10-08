@@ -23,4 +23,5 @@ Situated Cognition 2021: https://github.com/Apperta-IXN-for-the-NHS/SC360Editor2
 
 JSH:
 
-Math coursework written in LaTeX: 
+Math coursework written in LaTeX: https://github.com/kellydingzx/BENG0019_CW1 
+https://github.com/kellydingzx/Beng0019-cw2

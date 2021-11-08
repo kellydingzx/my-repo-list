@@ -1,6 +1,7 @@
 Github repos kellydingzx
 ========================
 
+CV: https://github.com/kellydingzx/my-cv/blob/master/Kelly_Ding_CV.pdf 
 
 Year 1 projects 
 ---------------
